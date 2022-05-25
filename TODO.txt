@@ -1,4 +1,4 @@
 TODO: 
 > work with 2 developers
 > create merge conflict
-
+> resolve conflict
