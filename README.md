@@ -1,7 +1,7 @@
 # ip2-lab
 
-Hallo!!
-
+Hallo Graz!!
+Wie geht's?
 
 
 Hallo KBerg!!
